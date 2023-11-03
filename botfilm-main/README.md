@@ -32,5 +32,4 @@ Voici un bot film qui permet de gérer les films, il est souvent utilisé pour l
 - `menu-recherche` : Fait apparaitre l'embed de recherche. Modérateur Uniquement.".
 - etc...
 
-## :raised_hands: Support
-Serveur Discord Pour Tout Aide: https://discord.gg/whitehall
+
